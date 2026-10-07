@@ -16,10 +16,16 @@ I like taking decisions that are normally spread across experience, spreadsheets
 
 ## Operations & Decision Systems
 
-### [BidGate](https://github.com/NathanTaylorOps/bidgate)
-**Should we pursue this bid — and what would change the answer?**
+Together, these projects cover a connected set of management decisions: **what work to pursue, where delivery is at risk, whether resources are ready, whether an investment survives uncertainty, and where supply could fail first.**
 
-A bid/no-bid system for specialty contractors combining commercial gates, bid attractiveness, win probability, cash and capacity exposure, uncertainty analysis and outcome calibration.
+### [BidGate](https://github.com/NathanTaylorOps/bidgate)
+**Should we commit scarce estimating, working-capital and delivery capacity to this opportunity — and what would change the answer?**
+
+A commercial pursuit-governance system for specialty contractors combining hard risk gates, attractiveness and winnability, margin and expected value, cash and capacity exposure, uncertainty, approval and override controls, and outcome calibration.
+
+Built from an estimating qualification process I developed in commercial construction. In the broader operating improvement effort, estimating rework fell **30%**, average margin improved **8%**, major-bid throughput increased from roughly **one every two weeks to 2–4 per week**, and small-bid turnaround moved from **2–4 days to hours–1 day**. The public application is a later portfolio implementation, not the source of those operating results.
+
+[Live demo](https://NathanTaylorOps.github.io/bidgate/) · [Management case study](https://github.com/NathanTaylorOps/bidgate/blob/main/docs/CASE_STUDY.md) · [Decision memo](https://github.com/NathanTaylorOps/bidgate/blob/main/assets/memo.pdf)
 
 ### [Scenario Sensitivity Engine](https://github.com/NathanTaylorOps/scenario-sensitivity-engine)
 **Does an investment still make sense when the assumptions move?**
