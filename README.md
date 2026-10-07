@@ -1,5 +1,5 @@
 <p align="center">
-   Nathan Taylor — Operations & General Management · Business Improvement · Decision Systems 
+  <img src="assets/profile-banner.jpg" alt="Nathan Taylor — Operations and General Management · Business Improvement · Decision Systems" width="100%">
 </p>
 
 I’m an operations leader with a hands-on technical background and experience across **construction, manufacturing, defence and asset-heavy businesses**.
