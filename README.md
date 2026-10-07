@@ -1,6 +1,6 @@
-# Nathan Taylor
-
-### Operations & General Management · Business Improvement · Decision Systems
+<p align="center">
+  <img src="assets/profile-banner.jpg" alt="Nathan Taylor — Operations & General Management · Business Improvement · Decision Systems" width="100%" />
+</p>
 
 I’m an operations leader with a hands-on technical background and experience across **construction, manufacturing, defence and asset-heavy businesses**.
 
@@ -11,6 +11,8 @@ This GitHub is an extension of that work.
 Most of the projects here started with an operating problem I had encountered directly: deciding which work to pursue, identifying which project needs intervention, understanding whether people and equipment are actually ready, testing an investment under uncertainty, or finding where a supply network is most exposed.
 
 I like taking decisions that are normally spread across experience, spreadsheets and disconnected systems and making them easier to **see, explain and act on**.
+
+---
 
 ## Operations & Decision Systems
 
@@ -39,12 +41,16 @@ A field-operations system connecting workforce availability, equipment, maintena
 
 A supply-chain resilience simulator built around disruption scenarios, time-to-survive, time-to-recover and mitigation decisions.
 
+---
+
 ## Research & Experimental Work
 
 ### [Fly-Brain Flow](https://github.com/NathanTaylorOps/Fly-Brain-Flow)
 **Can a mapped biological connectome produce useful navigation behaviour in simulation?**
 
 An experimental simulation project using a fruit-fly connectome as an agent controller and comparing its behaviour with conventional navigation models.
+
+---
 
 ## Product Development
 
@@ -53,6 +59,8 @@ An experimental simulation project using a fruit-fly connectome as an agent cont
 I’m also developing **Mulligan Hills**, a larger private project in Godot involving deterministic simulation, persistent world state, mobile interaction and interconnected management systems.
 
 It gives me a different kind of problem to work on: maintaining architecture, testing and product coherence as a system becomes substantially larger and more interconnected.
+
+---
 
 ## How I Approach Problems
 
@@ -70,6 +78,8 @@ That usually means the output needs to explain **why**, not simply show another 
 - Which project needs intervention first?
 - Where does the supply network fail?
 - What evidence supports the result?
+
+---
 
 ## Technology as a Tool
 
