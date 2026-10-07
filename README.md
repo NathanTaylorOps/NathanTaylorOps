@@ -10,7 +10,7 @@ This GitHub is an extension of that work.
 
 Most of the projects here started with an operating problem I had encountered directly: deciding which work to pursue, identifying which project needs intervention, understanding whether people and equipment are actually ready, testing an investment under uncertainty, or finding where a supply network is most exposed.
 
-I like taking decisions that are normally spread across experience, spreadsheets and disconnected systems and making them easier to **see, explain and act on**.
+I focus on making operating decisions that are normally spread across experience, spreadsheets and disconnected systems easier to **see, explain and act on**.
 
 ---
 
@@ -74,7 +74,7 @@ The subject matter changes, but the approach is fairly consistent:
 
 **Understand the operation → identify the real constraint → make the assumptions visible → build the simplest useful system → test the result → improve it**
 
-I’m more interested in whether a system helps someone make a better decision than whether it uses complicated technology.
+The test is whether a system helps someone make a better decision, not whether it uses complicated technology.
 
 That usually means the output needs to explain **why**, not simply show another metric:
 
@@ -89,12 +89,12 @@ That usually means the output needs to explain **why**, not simply show another 
 
 ## Technology as a Tool
 
-I use software, data and AI as tools for operational improvement rather than as ends in themselves.
+I use software, data and automation as tools for operational improvement rather than as ends in themselves.
 
-These projects use AI-assisted development extensively. I remain responsible for the **problem definition, operating logic, assumptions, system design, decision rules, validation and acceptance of the result**.
+For these portfolio projects, I remain responsible for the **problem definition, operating logic, assumptions, system design, decision rules, validation and acceptance of the result**.
 
-One principle I try to keep consistent across the work is:
+One principle is consistent across the work:
 
 > **Implemented is not the same as verified, and verified is not the same as production-ready.**
 
-Where something is experimental, incomplete or has not yet been validated in the real environment, I try to say so plainly.
+Where something is experimental, incomplete or has not yet been validated in the real environment, it is identified as such.
